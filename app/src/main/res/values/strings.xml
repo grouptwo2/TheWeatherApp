@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">36d8bf0c-403b-4209-ac8d-a161377a8aea</string>
+    <string name="password">NKKrGrdkns</string>
+    <string-array name="cities">
+        <item>Ottawa</item>
+        <item>Quebec</item>
+        <item>Toronto</item>
+        <item>Waterloo</item>
+        <item>Windsor</item>
+        <item>Winnipeg</item>
+    </string-array>
+    <string name="title_activity_city_search">City Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_city_weather_forecast_detail">CityWeatherForecastDetailActivity
+    </string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
