@@ -157,7 +157,7 @@ public class CityWeatherForecastDetailActivity extends AppCompatActivity impleme
                 case 1:
                     return "HOURLY";
                 case 2:
-                    return "FORCAST";
+                    return "FORECAST";
             }
             return null;
         }
